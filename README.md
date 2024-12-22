@@ -1,4 +1,6 @@
-## Hi, I'm Muhammad Yusuf Aditiya 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Yusuf+Aditiya!;" />
+</h1>
 
 # 💫 About Me:
 Hi, I’m Muhammad Yusuf Aditiya, a 17-year-old Graphic Designer and Developer from Indonesia, also known as Vizart. I specialize in UI/UX design, grapic designer, branding, web development, and game development. My passion lies in crafting intuitive digital experiences and visually appealing designs that resonate with users. I am constantly seeking to improve my skills and expand my knowledge in both design and development to deliver cutting-edge solution
