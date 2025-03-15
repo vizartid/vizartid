@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Hi, I’m Muhammad Yusuf Aditiya, a 17-year-old Graphic Designer and Developer from Indonesia, also known as Vizart. I specialize in UI/UX design, grapic designer, branding, web development, and game development. My passion lies in crafting intuitive digital experiences and visually appealing designs that resonate with users. I am constantly seeking to improve my skills and expand my knowledge in both design and development to deliver cutting-edge solution
+Hi, I’m Muhammad Yusuf Aditiya, a 18-year-old Graphic Designer and Developer from Indonesia, also known as Vizart. I specialize in UI/UX design, grapic designer, branding, web development, and game development. My passion lies in crafting intuitive digital experiences and visually appealing designs that resonate with users. I am constantly seeking to improve my skills and expand my knowledge in both design and development to deliver cutting-edge solution
 
 # 🎯 Goals:
 My goal is to bridge the gap between design and technology by creating innovative products that provide value and enhance user experiences. I aspire to collaborate with like-minded professionals and work on projects that challenge my creativity while contributing to the growth of the tech and design community.
