@@ -29,9 +29,3 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 
 <!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Myfza&theme=darkhub)
-
-<!-- Profile Vis
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Myfza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
