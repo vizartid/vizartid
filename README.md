@@ -26,6 +26,5 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Myfza&theme=monokai)
-
 <!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Myfza&theme=monokai)
