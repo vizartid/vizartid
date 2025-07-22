@@ -20,7 +20,7 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myfza&theme=2077)
 ![](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&layout=compact&langs_count=10&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Myfza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
