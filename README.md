@@ -19,14 +19,12 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
-<!-- GitHub Stats -->
-![My Stats](https://github-readme-stats.vercel.app/api?username=Myfza&show_icons=true&theme=monokai)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&layout=compact&theme=monokai)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=monokai&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Myfza&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Myfza&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=Myfza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
