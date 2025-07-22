@@ -26,7 +26,7 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&layout=compact&theme=monokai)
 
 <!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=monokai_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=monokai&hide_border=false)
 
 <!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Myfza&theme=monokai)
