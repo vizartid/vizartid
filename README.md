@@ -7,7 +7,6 @@
 <p align="center">
 Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia with a multidisciplinary background in engineering and digital design.  
 I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>web development</strong>, and I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.
-
 I’m currently expanding my skills in <strong>AI</strong> and <strong>IoT systems integration</strong> to build intelligent and user-centered solutions across physical and digital environments.  
 I enjoy working at the intersection of <strong>design, technology, and automation</strong>.
 </p>
@@ -18,12 +17,9 @@ I enjoy working at the intersection of <strong>design, technology, and automatio
 
 <p align="center">
 My goal is to specialize in the development of intelligent automation systems that integrate <strong>PLC/SCADA control</strong>, <strong>IoT sensor networks</strong>, and <strong>AI-driven data processing</strong>.
-
 I am working toward building real-time, responsive systems for industrial and smart environments by combining <strong>embedded programming</strong>, <strong>network infrastructure</strong>, and <strong>cloud-connected platforms</strong>.
-
 Additionally, I aim to design intuitive <strong>UI/UX interfaces</strong> and <strong>dashboards</strong> that enable seamless human-machine interaction (HMI).  
 I’m particularly interested in projects that bridge hardware and software — such as <strong>remote monitoring systems</strong>, <strong>predictive maintenance tools</strong>, and <strong>AI-assisted robotics</strong> — while upholding usability and efficiency.
-
 Long-term, I aspire to contribute to the advancement of industrial technology through innovation at the intersection of <strong>automation</strong>, <strong>connectivity</strong>, and <strong>design</strong>.
 </p>
 
