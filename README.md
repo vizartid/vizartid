@@ -29,10 +29,10 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
 
 ---
 
-<h1 align="center">⚡<strong>TECH STACK:</strong></h1>
+<h1 align="center">💻<strong>TECH STACK:</strong></h1>
 
 
-<h2 align="center">💻Full-Stack Development:</h2>
+<h2 align="center">Full-Stack Development:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="20" />
@@ -74,7 +74,7 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
 </div>
 
 
-<h2 align="center">⚙️ DevOps & Database:</h2>
+<h2 align="center">DevOps & Database:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
@@ -98,7 +98,7 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
 </div>
 
 
-<h2 align="center">🎨 UI/UX & Design Stack</h2>
+<h2 align="center">UI/UX & Design Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
@@ -114,7 +114,7 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
 </div>
 
 
-<h2 align="center">🧠 AI/ML Development Stack:</h2>
+<h2 align="center">AI/ML Development Stack:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
