@@ -15,10 +15,8 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
 
 <h1 align="center">TECH STACK</h1>
 
-###
 
 <h2 align="center">💻Full-Stack Web Development:</h2>
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="20" />
@@ -59,10 +57,8 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="50" alt="vite logo"  />
 </div>
 
-###
 
 <h2 align="center">⚙️Database & CMS:</h2>
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
@@ -85,10 +81,8 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
-###
 
 <h2 align="center">🎨 UI/UX & Design Stack</h2>
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
@@ -103,9 +97,8 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   <img src="https://skillicons.dev/icons?i=webflow" height="50" alt="webflow logo"  />
 </div>
 
-###
+
 <h2 align="center">🧠 AI/ML Development Stack:</h2>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -144,7 +137,6 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   </a>
 </div>
 
-###
 
 <h1 align="center">📊 GitHub Stats:</h1>
 ###
@@ -154,7 +146,6 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   <img src="https://github-profile-trophy.vercel.app?username=myfza&theme=monokai&column=-1&row=1&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph-dark.svg">
@@ -162,4 +153,3 @@ Additionally, I aim to design intuitive UI/UX interfaces and dashboards that ena
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
