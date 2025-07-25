@@ -160,9 +160,6 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
   <img src="https://streak-stats.demolab.com?user=myfza&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=myfza&theme=monokai&column=-1&row=1&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/myfza/myfza/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph.svg">
