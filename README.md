@@ -29,7 +29,7 @@ Long-term, I aspire to contribute to the advancement of industrial technology th
 
 ---
 
-<h1 align="center">⚡ <strong>TECH STACK</strong> TECH STACK</h1>
+<h1 align="center">⚡<strong>TECH STACK:</strong></h1>
 
 
 <h2 align="center">💻Full-Stack Web Development:</h2>
