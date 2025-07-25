@@ -2,18 +2,34 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Yusuf+!;" />
 </h1>
 
-# 💫 About Me:
-Hi, I’m Muhammad Yusuf Aditiya, an 18-year-old Robotics & Automation student from Indonesia with a multidisciplinary background in engineering and digital design. I specialize in UI/UX design, brand identity, and web development, and I have hands-on experience in network engineering and computer hardware systems. I’m currently expanding my skills in AI and IoT systems integration to build intelligent and user-centered solutions across physical and digital environments. I enjoy working at the intersection of design, technology, and automation.
+<h1 align="center">💫 About Me</h1>
 
-# 🎯 Goals:
-My goal is to specialize in the development of intelligent automation systems that integrate PLC/SCADA control, IoT sensor networks, and AI-driven data processing. I am working toward building real-time, responsive systems for industrial and smart environments by combining embedded programming, network infrastructure, and cloud-connected platforms.
+<p align="center">
+Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia with a multidisciplinary background in engineering and digital design.  
+I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>web development</strong>, and I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.
 
-Additionally, I aim to design intuitive UI/UX interfaces and dashboards that enable seamless human-machine interaction (HMI). I’m particularly interested in projects that bridge hardware and software — such as remote monitoring systems, predictive maintenance tools, and AI-assisted robotics — while upholding usability and efficiency. Long-term, I aspire to contribute to the advancement of industrial technology through innovation at the intersection of automation, connectivity, and design.
+I’m currently expanding my skills in <strong>AI</strong> and <strong>IoT systems integration</strong> to build intelligent and user-centered solutions across physical and digital environments.  
+I enjoy working at the intersection of <strong>design, technology, and automation</strong>.
+</p>
 
+---
 
-<br clear="both">
+<h1 align="center">🎯 Goals</h1>
 
-<h1 align="center">TECH STACK</h1>
+<p align="center">
+My goal is to specialize in the development of intelligent automation systems that integrate <strong>PLC/SCADA control</strong>, <strong>IoT sensor networks</strong>, and <strong>AI-driven data processing</strong>.
+
+I am working toward building real-time, responsive systems for industrial and smart environments by combining <strong>embedded programming</strong>, <strong>network infrastructure</strong>, and <strong>cloud-connected platforms</strong>.
+
+Additionally, I aim to design intuitive <strong>UI/UX interfaces</strong> and <strong>dashboards</strong> that enable seamless human-machine interaction (HMI).  
+I’m particularly interested in projects that bridge hardware and software — such as <strong>remote monitoring systems</strong>, <strong>predictive maintenance tools</strong>, and <strong>AI-assisted robotics</strong> — while upholding usability and efficiency.
+
+Long-term, I aspire to contribute to the advancement of industrial technology through innovation at the intersection of <strong>automation</strong>, <strong>connectivity</strong>, and <strong>design</strong>.
+</p>
+
+---
+
+<h1 align="center">⚡ <strong>TECH STACK</strong> TECH STACK</h1>
 
 
 <h2 align="center">💻Full-Stack Web Development:</h2>
