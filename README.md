@@ -116,7 +116,7 @@ I enjoy working at the intersection of <strong>design, technology, and automatio
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myfza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
       <img src="https://github-readme-stats.vercel.app/api?username=myfza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=myfza&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=myfza&theme=monokai&no-frame=true&column=4&title=MultiLanguage" height="150" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app/?username=myfza&theme=monokai&no-frame=true&margin-w=10&margin-h=8&title=MultipleLang,Commit,Repositories,Stars,PullRequest,Issues" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph-dark.svg">
