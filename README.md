@@ -2,15 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Yusuf+!;" />
 </h1>
 
-<h1 align="center">💫 About Me</h1>
-
-<p align="center">
-Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia with a multidisciplinary background in engineering and digital design.  
-I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>web development</strong>, and I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.
-I’m currently expanding my skills in <strong>AI</strong> and <strong>IoT systems integration</strong> to build intelligent and user-centered solutions across physical and digital environments.  
-I enjoy working at the intersection of <strong>design, technology, and automation</strong>.
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/myfza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -123,5 +114,5 @@ I enjoy working at the intersection of <strong>design, technology, and automatio
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph.svg">
-</picture>https://github-profile-trophy.vercel.app?username=myfza&theme=monokai&column=-1&row=1&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4
+</picture>
 
