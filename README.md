@@ -93,25 +93,6 @@ I enjoy working at the intersection of <strong>design, technology, and automatio
 </div>
 
 
-<h2 align="center">AI/ML Development Stack:</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="50" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/myfza/" target="_blank">
