@@ -101,7 +101,7 @@
 
 ###
 
-<h3 align="center">🎨 UI/UX & Design Stack:</h3>
+<h3 align="center"> UI/UX & Design Stack:</h3>
 
 ###
 
