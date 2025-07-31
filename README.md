@@ -4,13 +4,18 @@
 
 <h1 align="center">ABOUT ME</h1>
 
-###
+<p align="center">
+  Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia,<br>
+  with a multidisciplinary background in engineering and digital design.<br>
+  I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>web development</strong>.
+</p>
 
-<p align="center">Hi, I’m Muhammad Yusuf Aditiya, an 18-year-old Robotics & Automation student from Indonesia <br>with a multidisciplinary background in engineering and digital design. I specialize in UI/UX design, brand identity, and web development,</p>
-
-###
-
-<p align="center">I have hands-on experience in network engineering and computer hardware systemsI’m currently expanding my skills in AI and IoT systems integration <br>to build intelligent and user-centered solutions across physical and digital environments.  I enjoy working at the intersection of design, technology, and automation</p>
+<p align="center">
+  I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.<br>
+  Currently, I’m expanding my skills in <strong>AI</strong> and <strong>IoT systems integration</strong> to build intelligent,<br>
+  user-centered solutions across both physical and digital environments.<br>
+  I enjoy working at the intersection of <strong>design</strong>, <strong>technology</strong>, and <strong>automation</strong>.
+</p>
 
 ###
 
