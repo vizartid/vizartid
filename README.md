@@ -12,7 +12,7 @@
 
 <p align="center">
   I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.<br>
-  Currently, I’m expanding my skills in <strong>AI</strong> and <strong>IoT systems integration</strong> to build intelligent,<br>
+  Currently, I’m expanding my skills in <strong>AI</strong> and <strong>Machine Learning</strong> to build intelligent,<br>
   user-centered solutions across both physical and digital environments.<br>
   I enjoy working at the intersection of <strong>design</strong>, <strong>technology</strong>, and <strong>automation</strong>.
 </p>
