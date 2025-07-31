@@ -16,7 +16,8 @@
   user-centered solutions across both physical and digital environments.<br>
   I enjoy working at the intersection of <strong>design</strong>, <strong>technology</strong>, and <strong>automation</strong>.
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=myfza&color=blue)
+
+
 ###
 
 <br clear="both">
