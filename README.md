@@ -22,6 +22,7 @@
 
 <br clear="both">
 
+##
 <h2 align="center">🧠 Tech Stack:</h2>
 
 ###
@@ -62,7 +63,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
