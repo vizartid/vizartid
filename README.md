@@ -28,7 +28,6 @@
 
 <h3 align="center">Full-Stack Development:</h3>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
