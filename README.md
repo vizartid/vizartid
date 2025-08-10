@@ -110,9 +110,9 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <br clear="both">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=myfza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false&order=3" height="200" alt="languages graph"  /><br />
-<img src="https://github-readme-stats.vercel.app/api?username=myfza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=3" height="200" alt="stats graph"  />
+![](https://github-readme-stats.vercel.app/api?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://streak-stats.demolab.com?user=myfza&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  /><br />
 <img src="https://github-profile-trophy.vercel.app?username=myfza&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
 </div>
