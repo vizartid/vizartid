@@ -109,7 +109,7 @@
 
 
 <h1 align="center">📊 GitHub Stats:</h1>
-<br clear="both">
+
 ![](https://github-readme-stats.vercel.app/api?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Myfza&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
