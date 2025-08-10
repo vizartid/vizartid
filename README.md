@@ -111,7 +111,7 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=500" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="200px" /> 
 <img src="https://nirzak-streak-stats.vercel.app?user=Myfza&theme=neon&hide_border=false" height="200px" />
