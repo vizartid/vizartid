@@ -111,14 +111,15 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=neon&layout=compact&langs_count=8&card_width=320" height="200px" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="180px" />
   <img src="https://nirzak-streak-stats.vercel.app?user=Myfza&theme=neon&hide_border=false" height="180px" />
-</div>
+</p>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Myfza&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
 </div>
 
