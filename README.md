@@ -114,7 +114,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)  
 <img src="https://github-readme-stats.vercel.app/api?username=Myfza&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="200px" /> 
 <img src="https://nirzak-streak-stats.vercel.app?user=Myfza&theme=neon&hide_border=false" height="200px" />
-<img src="https://github-profile-trophy.vercel.app/?username=Myfza&theme=neon&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Myfza&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" />
 </div>
 
 
