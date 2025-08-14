@@ -3,7 +3,7 @@
 <p align="center">
   Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia,<br>
   with a multidisciplinary background in engineering and digital design.<br>
-  I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>web development</strong>.
+  I specialize in <strong>UI/UX design</strong>, <strong>brand identity</strong>, and <strong>Full-stack development</strong>.
 </p>
 
 <p align="center">
