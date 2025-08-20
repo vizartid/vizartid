@@ -91,9 +91,9 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/sketch/F7B500" height="40" alt="sketch logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="15" />
