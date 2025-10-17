@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18-year-old Robotics & Automation student from Indonesia,<br>
+  Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18 year old Robotics & Automation student from Indonesia,<br>
   with a multidisciplinary background in engineering and digital design.<br>
   I specialize in <strong>Full-stack development</strong>, <strong>Dev-Ops</strong>,<strong>UI/UX design</strong>, and <strong>Brand design</strong>.
 </p>
