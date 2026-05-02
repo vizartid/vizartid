@@ -50,7 +50,7 @@ Tech: Python, FastAPI, LLM, React.
 ---
 ## 🧩 Selected Tech Stack
 
-<div align="centee">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch" />
