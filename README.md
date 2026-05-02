@@ -1,4 +1,4 @@
-# ⚫ AI/ML Engineer | Software Developer | IoT Specialist ⚫
+<h1 align="center">⚫ AI/ML Engineer | Software Developer | IoT Specialist ⚫</h1>
 ---
 ## 🧠 About Me
 
