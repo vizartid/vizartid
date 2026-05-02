@@ -44,6 +44,8 @@ Tech: Python, FastAPI, LLM, React
 
 ---
 
+### 🔵 Upcoming Project 18 Mei
+
 
 
 ## ⚙️ Core Skills
