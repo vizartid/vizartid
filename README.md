@@ -38,6 +38,7 @@ Tech: Python, FastAPI, LLM, React.
 
 ### 🔵 Upcoming Project 18 Mei
 
+---
 ### ⚙️ Core Skills
 
 *   **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
@@ -45,7 +46,7 @@ Tech: Python, FastAPI, LLM, React.
 *   **IoT & Edge AI:** Sensor integration, real-time systems
 *   **Software Engineering:** FastAPI, Node.js, React
 *   **Infrastructure:** Docker, Linux, Networking (MTCNA)
-
+---
 ## 🧩 Selected Tech Stack
 
 <div align="left">
