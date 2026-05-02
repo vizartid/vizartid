@@ -1,112 +1,74 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">🚀 AI Engineer (IoT & Edge Systems)</h1>
 
 <p align="center">
-  Hi, I’m <strong>Muhammad Yusuf Aditiya</strong>, an 18 year old Robotics & Automation student from Indonesia,<br>
-  with a multidisciplinary background in engineering and digital design.<br>
-  I specialize in <strong>Full-stack development</strong>, <strong>Dev-Ops</strong>,<strong>UI/UX design</strong>, and <strong>Brand design</strong>.
+Building intelligent systems that connect Machine Learning with real-world environments (IoT, sensors, automation).
 </p>
+
+---
+
+## 🧠 About Me
+
+I am an Instrumentation & Automation student focused on developing AI-driven systems for industrial and real-time environments.
+
+My work centers on integrating:
+
+* Machine Learning models
+* Sensor data & IoT systems
+* Data pipelines & backend services
+
+to create intelligent applications such as predictive maintenance, anomaly detection, and edge AI systems.
+
+With an MTCNA certification, I also ensure systems are built on reliable, secure, and scalable network infrastructures.
+
+---
+
+## 🔥 Featured Projects
+
+### 🟢 Industrial Anomaly Detection System
+
+* Real-time sensor data processing
+* ML model for anomaly detection
+* FastAPI + Docker deployment
+
+### 🟣 Edge AI Monitoring System
+
+* Computer vision on edge devices
+* Low-latency inference
+* IoT integration
+
+### 🔵 AI-powered Application System
+
+* Backend API + ML integration
+* Data pipeline processing
+* Full-stack deployment
+
+---
+
+## ⚙️ Core Skills
+
+* **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
+* **Data Systems:** Python, Data Pipeline, API Development
+* **IoT & Edge AI:** Sensor integration, real-time systems
+* **Software Engineering:** FastAPI, Node.js, React
+* **Infrastructure:** Docker, Linux, Networking (MTCNA)
+
+---
+
+## 🧩 Selected Tech Stack
 
 <p align="center">
-  I have hands-on experience in <strong>network engineering</strong> and <strong>computer hardware systems</strong>.<br>
-  Currently, I’m expanding my skills in <strong>Internet of Things <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong> to build intelligent,<br>
-  user-centered solutions across both physical and digital environments.<br>
-  I enjoy working at the intersection of <strong>design</strong>, <strong>technology</strong>, and <strong>automation</strong>.
+Python • PyTorch • FastAPI • Docker • React • Node.js • PostgreSQL • Linux
 </p>
 
+---
 
-###
+## 📫 Connect
 
-<br clear="both">
+* LinkedIn
+* Email
 
-##
-<h1 align="center">🧠 Tech Stack:</h2>
+---
 
-###
-<h2 align="center">Full-Stack Development:</h3>
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-</div>
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="center"> UI/UX & Design Stack:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/sketch/F7B500" height="40" alt="sketch logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
 
 
 
