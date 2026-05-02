@@ -80,14 +80,6 @@ Tech: Python, FastAPI, LLM, React.
 
 
 <!-- Baris 2: Stats + Streak sejajar -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizartid&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="180px" />
-  <img src="https://streak-stats.demolab.com?user=vizartid&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vizartid&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
-</div>
-
 
 ###
 <div align="center">
