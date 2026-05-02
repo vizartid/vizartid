@@ -1,6 +1,4 @@
-<h1 align="center">⚫ AI/ML Engineer | Software Developer | IoT Specialist ⚫ </h1>
 
----
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=%20AI/ML%20Engineer%20%7C%20Software%20Developer%20%7C%20IoT%20Specialist%20&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
