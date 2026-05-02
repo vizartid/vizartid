@@ -69,7 +69,8 @@ Tech: Python, FastAPI, LLM, React.
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect with Me </h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/myfza/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:Vizart.id@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-black?logo=google-chrome)](https://marvent-lab.netlify.app/)
