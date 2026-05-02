@@ -30,14 +30,14 @@ With an MTCNA certification, I ensure these systems run on reliable, secure, and
 Real-time industrial control system integrating sensor data and automation logic for liquid level monitoring and control.  
 Includes data acquisition, system control, and backend integration for monitoring.  
 Tech: Python, C++, IoT Sensors,   
-- [Industrial Liquid Control](https://github.com/vizartid/Industrial-Liquid-Control)
+[Industrial Liquid Control](https://github.com/vizartid/Industrial-Liquid-Control)
 ---
 
 ### 🟣 Vortexa - AI-Powered Chat Assistant
 LLM-based conversational assistant with context-aware responses and backend API integration.  
 Designed for scalable interaction using modern AI and data pipeline approaches.  
 Tech: Python, FastAPI, LLM, React  
-🔗 [Vortexa](https://github.com/vizartid/Vortexa)
+[Vortexa](https://github.com/vizartid/Vortexa)
 ---
 
 ### 🔵 AI-powered Backend System
