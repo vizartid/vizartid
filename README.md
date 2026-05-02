@@ -5,7 +5,7 @@
 
 ---
 
-##  About Me
+<h2 align="center">About Me</h2>
 I am an **Instrumentation & Automation student** building AI-driven systems that bridge machine learning with real-world industrial environments.
 
 My work focuses on designing end-to-end intelligent systems — from sensor data acquisition and IoT integration to machine learning models and backend deployment — enabling real-time decision-making in applications such as predictive maintenance, anomaly detection, and edge AI monitoring.
@@ -20,7 +20,7 @@ With an MTCNA certification, I ensure these systems run on reliable, secure, and
 
 ---
 
-## 🔥 Featured Projects (Recently)
+<h2 align="center"> Featured Projects (Recently)</h2>
 
 ### 🟢 Automatic Industrial Liquid Control System
 
@@ -43,7 +43,7 @@ Tech: Python, FastAPI, LLM, React.
 ### 🔵 Upcoming Project 18 Mei
 
 ---
-## 🧩 Selected Tech Stack
+<h2 align="center">🧩 Selected Tech Stack</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="42" />
@@ -69,8 +69,7 @@ Tech: Python, FastAPI, LLM, React.
 
 ---
 
-## 📫 Connect with Me
-
+<h2 align="center">📫 Connect with Me</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/myfza/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:Vizart.id@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-black?logo=google-chrome)](https://marvent-lab.netlify.app/)
