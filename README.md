@@ -1,4 +1,4 @@
-#  AI/ML Engineer | Software Developer | IoT Specialist | MTCNA Certified
+# --- AI/ML Engineer | Software Developer | IoT Specialist | MTCNA Certified ---
 
 ### 🧠 About Me
 
