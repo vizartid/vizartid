@@ -1,41 +1,33 @@
-<h1 align="center">🚀 AI Engineer (IoT & Edge Systems)</h1>
+# 🚀 AI/ML Engineer | IoT & Edge AI Specialist | MTCNA Certified
 
-<p align="center">
-Building intelligent systems that connect Machine Learning with real-world environments (IoT, sensors, automation).
-</p>
+### 🧠 About Me
 
----
-
-
-## 🧠 About Me
-
-I am an Instrumentation & Automation student building AI-driven systems that bridge machine learning with real-world industrial environments.
+I am an **Instrumentation & Automation student** building AI-driven systems that bridge machine learning with real-world industrial environments. 
 
 My work focuses on designing end-to-end intelligent systems — from sensor data acquisition and IoT integration to machine learning models and backend deployment — enabling real-time decision-making in applications such as predictive maintenance, anomaly detection, and edge AI monitoring.
 
-I operate at the intersection of:
-
-* **AI/ML Engineering** (model development & optimization)
-* **Data Systems** (pipelines, real-time processing)
-* **Industrial IoT** (sensor integration & automation)
-* **Software Development** (API development, backend systems, and full-stack applications)
+**I operate at the intersection of:**
+• **AI/ML Engineering** (model development & optimization)
+• **Data Systems** (pipelines, real-time processing)
+• **Industrial IoT** (sensor integration & automation)
+• **Software Development** (API development, backend systems, and full-stack applications)
 
 With an MTCNA certification, I ensure these systems run on reliable, secure, and scalable network infrastructures, ready for real-world deployment.
 
 ---
 
-## 🔥 Featured Projects (Recently)
+### 🔥 Featured Projects (Recently)
 
-### 🟢 Automatic Industrial Liquid Control System
+#### 🟢 Automatic Industrial Liquid Control System
 
 Real-time industrial control system integrating sensor data and automation logic for liquid level monitoring and control.  
 Includes data acquisition, system control, and backend integration for monitoring.  
-Tech: Python, C++, IoT Sensors,  
+Tech: Python, C++, IoT Sensors  
 🔗 [Industrial Liquid Control](https://github.com/vizartid/Industrial-Liquid-Control)
 
 ---
 
-### 🟣 Vortexa - AI-Powered Chat Assistant
+#### 🟣 Vortexa - AI-Powered Chat Assistant
 
 LLM-based conversational assistant with context-aware responses and backend API integration.  
 Designed for scalable interaction using modern AI and data pipeline approaches.  
@@ -46,16 +38,13 @@ Tech: Python, FastAPI, LLM, React
 
 ### 🔵 Upcoming Project 18 Mei
 
+### ⚙️ Core Skills
 
-
-## ⚙️ Core Skills
-
-* **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
-* **Data Systems:** Python, Data Pipeline, API Development
-* **IoT & Edge AI:** Sensor integration, real-time systems
-* **Software Engineering:** FastAPI, Node.js, React
-* **Infrastructure:** Docker, Linux, Networking (MTCNA)
-
+• **Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
+• **Data Systems:** Python, Data Pipeline, API Development  
+• **IoT & Edge AI:** Sensor integration, real-time systems  
+• **Software Engineering:** FastAPI, Node.js, React  
+• **Infrastructure:** Docker, Linux, Networking (MTCNA)
 ---
 
 ## 🧩 Selected Tech Stack
