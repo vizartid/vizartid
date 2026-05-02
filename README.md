@@ -6,7 +6,7 @@
 ---
 
 <h2 align="center">About Me</h2>
-I am an **Instrumentation & Automation student** building AI-driven systems that bridge machine learning with real-world industrial environments.
+I am an <bold>Instrumentation & Automation student</bold> building AI-driven systems that bridge machine learning with real-world industrial environments.
 
 My work focuses on designing end-to-end intelligent systems — from sensor data acquisition and IoT integration to machine learning models and backend deployment — enabling real-time decision-making in applications such as predictive maintenance, anomaly detection, and edge AI monitoring.
 
