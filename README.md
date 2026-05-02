@@ -24,25 +24,26 @@ With an MTCNA certification, I ensure these systems run on reliable, secure, and
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Recently)
 
-### 🟢 Industrial Anomaly Detection System
+### 🟢 Automatic Industrial Liquid Control System
+Real-time industrial control system integrating sensor data and automation logic for liquid level monitoring and control.  
+Includes data acquisition, system control, and backend integration for monitoring.  
+Tech: Python, C++, IoT Sensors,   
+- [Industrial Liquid Control](https://github.com/vizartid/Industrial-Liquid-Control)
+---
 
-* Real-time sensor data processing
-* ML model for anomaly detection
-* FastAPI + Docker deployment
+### 🟣 Vortexa - AI-Powered Chat Assistant
+LLM-based conversational assistant with context-aware responses and backend API integration.  
+Designed for scalable interaction using modern AI and data pipeline approaches.  
+Tech: Python, FastAPI, LLM, React  
+🔗 [Vortexa](https://github.com/vizartid/Vortexa)
+---
 
-### 🟣 Edge AI Monitoring System
-
-* Computer vision on edge devices
-* Low-latency inference
-* IoT integration
-
-### 🔵 AI-powered Application System
-
-* Backend API + ML integration
-* Data pipeline processing
-* Full-stack deployment
+### 🔵 AI-powered Backend System
+Scalable backend with ML integration and data pipeline processing.  
+Tech: FastAPI, Node.js, PostgreSQL  
+🔗 https://github.com/username/project-name
 
 ---
 
