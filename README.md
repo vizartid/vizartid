@@ -2,6 +2,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=%20AI/ML%20Engineer%20%7C%20Software%20Developer%20%7C%20IoT%20Specialist%20&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&stroke=-&desc=Highly%20introspective,%20abstract-conceptual%20thinker,&descSize=12&descAlign=50&descAlignY=80&textBg=false&theme=radical"  />
 </div>
+
 ---
 
 ##  About Me
