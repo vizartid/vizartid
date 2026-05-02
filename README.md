@@ -1,5 +1,5 @@
-# 🚀 AI Engineer | Software Developer | IoT | MTCNA Certified
-
+# 🚀 AI/ML Engineer | Software Developer | IoT Specialist | MTCNA Certified
+---
 ### 🧠 About Me
 
 I am an **Instrumentation & Automation student** building AI-driven systems that bridge machine learning with real-world industrial environments.
