@@ -27,6 +27,7 @@ With an MTCNA certification, I ensure these systems run on reliable, secure, and
 ## 🔥 Featured Projects (Recently)
 
 ### 🟢 Automatic Industrial Liquid Control System
+
 Real-time industrial control system integrating sensor data and automation logic for liquid level monitoring and control.  
 Includes data acquisition, system control, and backend integration for monitoring.  
 Tech: Python, C++, IoT Sensors,   
@@ -34,6 +35,7 @@ Tech: Python, C++, IoT Sensors,
 ---
 
 ### 🟣 Vortexa - AI-Powered Chat Assistant
+
 LLM-based conversational assistant with context-aware responses and backend API integration.  
 Designed for scalable interaction using modern AI and data pipeline approaches.  
 Tech: Python, FastAPI, LLM, React  
