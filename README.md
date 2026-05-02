@@ -78,10 +78,11 @@ With an MTCNA certification, I also ensure systems are built on reliable, secure
 
 ---
 
-## 📫 Connect
+## 📫 Connect with Me
 
-* LinkedIn
-* Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/myfza/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:Vizart.id@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-black?logo=google-chrome)](https://marvent-lab.netlify.app/)
 
 ---
 
