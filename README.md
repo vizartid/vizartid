@@ -5,8 +5,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=%20AI/ML%20Engineer%20%7C%20Software%20Developer%20%7C%20IoT%20Specialist%20&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
-## 🧠 About Me
-
 I am an **Instrumentation & Automation student** building AI-driven systems that bridge machine learning with real-world industrial environments.
 
 My work focuses on designing end-to-end intelligent systems — from sensor data acquisition and IoT integration to machine learning models and backend deployment — enabling real-time decision-making in applications such as predictive maintenance, anomaly detection, and edge AI monitoring.
