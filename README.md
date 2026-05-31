@@ -40,7 +40,7 @@ Tech: Python, FastAPI, LLM, React.
 
 ---
 
-### SIGIZI - IoT & Hybrid AI for Early Stunting Detection
+### 🟠 SIGIZI - IoT & Hybrid AI for Early Stunting Detection
 IoT-based stunting detection system for toddlers (0–24 months) integrating RFID, ToF sensors, load cell, and hybrid AI (Random Forest + Generative AI).  
 Automates anthropometric measurements, classifies WHO Z-scores, and sends real-time interventions via dashboard & WhatsApp.  
 Tech: ESP32, VL53L1X, HX711, Firebase, FastAPI, Flask, React, Random Forest, Ollama.  
