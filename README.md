@@ -81,7 +81,7 @@ Tech: ESP32, VL53L1X, HX711, Firebase, FastAPI, Flask, React, Random Forest, Oll
 
 ---
 
-
+![Profile Views](https://gprm.itsvg.in/api?username=vizartid)
 
 
 <div align="center">
@@ -99,7 +99,6 @@ Tech: ESP32, VL53L1X, HX711, Firebase, FastAPI, Flask, React, Random Forest, Oll
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/myfza/myfza/output/pacman-contribution-graph.svg">
 </picture>
 
-![Profile Views](https://gprm.itsvg.in/api?username=vizartid)
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
