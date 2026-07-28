@@ -69,6 +69,7 @@ Tech: ESP32, VL53L1X, HX711, Firebase, FastAPI, Flask, React, Random Forest, Oll
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" />
 </div>
+![](https://komarev.com)
 
 ###
 
