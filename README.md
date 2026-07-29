@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mca-andri/assets/main/maventlabs-classic.png" alt="Maventlabs" width="600">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Maventlabs" alt="Maventlabs" />
 </p>
+
 <p align="center">
   <img height="185" src="https://github-readme-stats.shion.dev/api?username=vizartid&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img height="185" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vizartid&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Top Languages" />
