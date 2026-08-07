@@ -30,9 +30,11 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2hyb21hREI8L3RpdGxlPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4LTggOHptLTUtOWMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnptMTAgMGMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnptLTUgNmMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnoiLz48L3N2Zz4=&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2hyb21hREI8L3RpdGxlPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4LTggOHptLTUtOWMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnptMTAgMGMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnptLTUgNmMxLjA5IDAgMi0uOTEgMi0ydy0uOTEtMi0yLTItMiAuOTEtMiAyIC45MSAyIDIgMnoiLz48L3N2Zz4=&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -43,9 +45,10 @@
 ### Current Focus & Open-Source Projects
 
 #### [Mavent Labs](https://github.com/Maventlabs) — *Systems & AI Agent Innovation*
-* **[Kestrel](https://github.com/Maventlabs/Kestrel)** — Self-hosted Agentic AI for strategy & business intelligence.
-* **[AgentRust](https://github.com/Maventlabs/AgentRust)** — High-performance, lightweight AI agent framework engineered in **Rust**.
-* **[Moxie Labs](https://github.com/Maventlabs/Moxielabs)** — Autonomous multi-agent AI systems for creative workflow orchestration.
+* **[Kestrel](https://github.com/Maventlabs/Kestrel)** — Self-hosted Agentic AI for strategy & business intelligence. (Ver. 1.00)
+* **[AgentRust](https://github.com/Maventlabs/AgentRust)** — High-performance, lightweight AI agent framework engineered in **Rust**. (Ver. 1.00)
+* **[Moxie Labs](https://github.com/Maventlabs/Moxielabs)** — Autonomous multi-agent AI systems for creative workflow orchestration. (Ver. 1.00)
+* **[MaventOS](https://github.com/Maventlabs/MaventOS)** *(Flagship / Target: Late August – Early September 2026)* — Next-gen Autonomous AI Workstation featuring Dashboard, Central Brain, Embedded Terminal, Smart Notes, File Organization IDE, STT-to-TTS Engine, Model Context Protocol (MCP) integration, and orchestration for 5 Core Agents & 50 Sub-Agents.
 
 #### Vizartlabs — *Brand Identity & Digital Product Design*
 * Crafting high-fidelity UI/UX architectures, design systems, and modern web application interfaces.
